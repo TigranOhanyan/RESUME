@@ -67,7 +67,7 @@ Scala backend engineer, researcher – Future Financial Technologies
 * Korean – don't even know how it sounds
 
 ## Soft Skills
-Time managment, communication, teamwork and collaboration, adaptability and flexibility.
+Time management, communication, teamwork and collaboration, adaptability and flexibility.
 
 ## Worth Mentioning
 I scare off bugs, bring good luck in releases and increase the odds of success of tests.😉
