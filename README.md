@@ -61,7 +61,7 @@ Scala backend engineer, researcher – Future Financial Technologies
 
 ## Languages
 
-* Armenian – էշը սեխից կհանեմ
+* Armenian – էշը ցեխից կհանեմ
 * Russian – fine
 * English – fine
 * Korean – don't even know how it sounds
