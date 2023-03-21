@@ -35,7 +35,7 @@ Scala backend engineer - [SAS Group](https://www.sasgroup.am/en/)
   
 ### AUG 2019 - JUN 2021
 
-Lecturer - [Yerevan State Univercity](http://www.ysu.am/main/en)
+Lecturer - [Yerevan State University](http://www.ysu.am/main/en)
 
 **Tech used:** MATLAB
 
@@ -55,7 +55,7 @@ Scala backend engineer, researcher – Future Financial Technologies
 
 2016-2018 
 
-### Yerevan State Univercity, Yerevan /BEcon/
+### Yerevan State Universty, Yerevan /BEcon/
 
 2010-2016
 
