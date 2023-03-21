@@ -55,7 +55,7 @@ Scala backend engineer, researcher – Future Financial Technologies
 
 2016-2018 
 
-### Yerevan State Universty, Yerevan /BEcon/
+### Yerevan State University, Yerevan /BEcon/
 
 2010-2016
 
