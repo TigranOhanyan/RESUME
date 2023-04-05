@@ -1,7 +1,7 @@
 # Tigran Ohanyan
 
 [github](https://github.com/TigranOhanyan) |
-[pdf](https://tigranohanyan.github.io/RESUME/RESUME.pdf)
+[pdf](https://tigranohanyan.github.io/RESUME/RESUME.pdf) |
 [tigranohanyan777@gmail.com](mailto:tigranohanyan777@gmail.com) |
 [Yerevan, Armenia](https://www.openstreetmap.org/relation/364087#map=12/40.1614/44.5259)
 
