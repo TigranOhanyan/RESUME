@@ -1,4 +1,4 @@
-# Tigran Ohanyan
+# Tigran Ohanyan 
 
 [github](https://github.com/TigranOhanyan) |
 [pdf](https://tigranohanyan.github.io/RESUME/README.md)
@@ -65,7 +65,6 @@ Scala backend engineer, researcher – Future Financial Technologies
 * Armenian – էշը ցեխից կհանեմ
 * Russian – fine
 * English – fine
-* Korean – don't even know how it sounds
 
 ## Soft Skills
 Time management, communication, teamwork and collaboration, adaptability and flexibility.
