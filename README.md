@@ -1,4 +1,4 @@
-# Tigran Ohanyan 
+# Tigran Ohanyan D7
 
 [github](https://github.com/TigranOhanyan) |
 [pdf](https://tigranohanyan.github.io/RESUME/README.md)
