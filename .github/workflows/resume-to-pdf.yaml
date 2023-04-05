@@ -20,7 +20,7 @@ jobs:
       - name: Convert MD to PDF
         run: |
           # pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
-          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf
+          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="DejaVu Sans"
           # pandoc --from=markdown --to=html5 README.md -o temp.html
           # wkhtmltopdf temp.html RESUME.pdf
           # rm temp.html
