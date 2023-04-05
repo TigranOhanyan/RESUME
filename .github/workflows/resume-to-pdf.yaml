@@ -1,0 +1,26 @@
+name: Convert RESUME to PDF
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install pandoc
+      - name: Convert MD to PDF
+        run: |
+          pandoc README.md -o RESUME.pdf
+      - name: Push to repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          directory: .
+          message: Update RESUME.pdf
