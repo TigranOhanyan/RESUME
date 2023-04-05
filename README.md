@@ -1,4 +1,4 @@
-# Tigran Ohanyan D2
+# Tigran Ohanyan D3
 
 [github](https://github.com/TigranOhanyan) |
 [tigranohanyan777@gmail.com](mailto:tigranohanyan777@gmail.com) |
