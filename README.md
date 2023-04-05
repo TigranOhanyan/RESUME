@@ -1,4 +1,10 @@
-# Tigran Ohanyan D3
+---
+header-includes:
+  - \usepackage[T1]{fontenc}
+  - \usepackage[utf8]{inputenc}
+---
+
+# Tigran Ohanyan
 
 [github](https://github.com/TigranOhanyan) |
 [tigranohanyan777@gmail.com](mailto:tigranohanyan777@gmail.com) |

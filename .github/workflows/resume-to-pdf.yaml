@@ -18,6 +18,8 @@ jobs:
       - name: Convert MD to PDF
         run: |
           pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
+        env:
+          LANG: en_US.UTF-8
       - name: Push to repo
         uses: ad-m/github-push-action@master
         with:
