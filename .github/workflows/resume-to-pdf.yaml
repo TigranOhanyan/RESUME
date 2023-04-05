@@ -14,10 +14,14 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y texlive-latex-base texlive-latex-extra
+          sudo apt-get install wkhtmltopdf
           sudo apt-get install pandoc
       - name: Convert MD to PDF
         run: |
-          pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
+          # pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
+          pandoc --from=markdown --to=html5 README.md -o temp.html
+          wkhtmltopdf temp.html RESUME.pdf
+          rm temp.html
         env:
           LANG: en_US.UTF-8
       - name: Push to repo

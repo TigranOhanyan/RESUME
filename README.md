@@ -1,9 +1,3 @@
----
-header-includes:
-  - \usepackage[T1]{fontenc}
-  - \usepackage[utf8]{inputenc}
----
-
 # Tigran Ohanyan
 
 [github](https://github.com/TigranOhanyan) |
