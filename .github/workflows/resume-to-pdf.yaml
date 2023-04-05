@@ -20,7 +20,7 @@ jobs:
       - name: Convert MD to PDF
         run: |
           # pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
-          sudo apt-get install fonts-noto
+          # sudo apt-get install fonts-noto
           fc-list
           pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Color"
           # pandoc --from=markdown --to=html5 README.md -o temp.html
