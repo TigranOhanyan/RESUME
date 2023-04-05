@@ -8,7 +8,7 @@
 
 ### JUL 2021 - present
 
-Scala backend engineer - [DataArt Solutions Inc](www.dataart.com)
+Scala backend engineer - [DataArt Solutions Inc](https://www.dataart.com)
 
 **Tech used:** Scala, Lightbend stack, ZIO stack, Typelevel stack/rarely/
 
