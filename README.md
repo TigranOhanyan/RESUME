@@ -62,7 +62,7 @@ Scala backend engineer, researcher – Future Financial Technologies
 
 ## Languages
 
-* Armenian – էշը ցեխից կհանեմ
+* Armenian – great
 * Russian – fine
 * English – fine
 
@@ -70,4 +70,4 @@ Scala backend engineer, researcher – Future Financial Technologies
 Time management, communication, teamwork and collaboration, adaptability and flexibility.
 
 ## Worth Mentioning
-I scare off bugs, bring good luck in releases and increase the odds of success of tests.😉
+I scare off bugs, bring good luck in releases and increase the odds of success of tests.㋡
