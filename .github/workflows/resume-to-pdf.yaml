@@ -26,7 +26,7 @@ jobs:
           sudo apt-get install fonts-firacode
           fc-list | grep "Fira Code"
           fc-cache -f -v
-          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Sans" -V monofont="Fira Code" -V lang="hy-AM" -V mathfont="GFS Neohellenic Math" -V armenianfont="DejaVu Serif" --pdf-engine-opt="-output-driver-opt=--enable-harfbuzz"
+          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Sans" -V monofont="Fira Code" -V lang="hy-AM" -V armenianfont="DejaVu Serif" --pdf-engine-opt="-output-driver-opt=--enable-harfbuzz"
           # pandoc --from=markdown --to=html5 README.md -o temp.html
           # wkhtmltopdf temp.html RESUME.pdf
           # rm temp.html
