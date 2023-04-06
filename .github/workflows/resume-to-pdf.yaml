@@ -22,7 +22,7 @@ jobs:
           # pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
           # sudo apt-get install fonts-noto
           fc-list
-          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Mono"
+          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Sans" -V monofont="Fira Code" -V lang=hy-AM,en-US
           # pandoc --from=markdown --to=html5 README.md -o temp.html
           # wkhtmltopdf temp.html RESUME.pdf
           # rm temp.html
