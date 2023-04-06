@@ -1,4 +1,4 @@
-# Tigran Ohanyan D
+# Tigran Ohanyan
 
 [pdf](https://tigranohanyan.github.io/RESUME/RESUME.pdf) |
 [github](https://github.com/TigranOhanyan) |

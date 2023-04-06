@@ -20,7 +20,7 @@ jobs:
       - name: Convert MD to PDF
         run: |
           # pandoc --pdf-engine=pdflatex README.md -o RESUME.pdf
-          sudo apt-get install fonts-gfs-neohellenic-math
+          # sudo apt-get install fonts-gfs-neohellenic-math
           sudo apt-get install fonts-noto 
           fc-list | grep "Noto Sans"
           sudo apt-get install fonts-firacode
