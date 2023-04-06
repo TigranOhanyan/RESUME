@@ -1,4 +1,4 @@
-# Tigran Ohanyan
+# Tigran Ohanyan 
 
 [pdf](https://tigranohanyan.github.io/RESUME/RESUME.pdf) |
 [github](https://github.com/TigranOhanyan) |
@@ -70,4 +70,4 @@ Scala backend engineer, researcher – Future Financial Technologies
 Time management, communication, teamwork and collaboration, adaptability and flexibility.
 
 ## Worth Mentioning
-I scare off bugs, bring good luck in releases and increase the odds of success of tests.㋡
+I scare off bugs, bring good luck in releases and increase the odds of success of tests.
