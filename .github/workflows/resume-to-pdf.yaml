@@ -24,7 +24,7 @@ jobs:
           sudo apt-get install fonts-noto
           sudo apt-get install fonts-firacode
           fc-cache -f -v
-          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Sans" -V monofont="Fira Code" -V geometry:margin=10mm
+          pandoc --pdf-engine=xelatex README.md -o RESUME.pdf -V mainfont="Noto Sans" -V monofont="Fira Code" -V geometry:margin=15mm -V fontsize=12pt
           # pandoc --from=markdown --to=html5 README.md -o temp.html
           # wkhtmltopdf temp.html RESUME.pdf
           # rm temp.html
