@@ -40,7 +40,7 @@ Lecturer - [Yerevan State University](http://www.ysu.am/main/en)
 
 **Tech used:** MATLAB
 
-**Tasks:** Teaching students to use MATLAB in constrcuting financial-economic models
+**Tasks:** Teaching students to use MATLAB in constructing financial-economic models
 
 ### AUG 2018 – FEB 2019
 
