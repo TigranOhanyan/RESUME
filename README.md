@@ -6,7 +6,7 @@
 [Yerevan, Armenia](https://www.openstreetmap.org/relation/364087#map=12/40.1614/44.5259)
 
 ## Profile
-Passionate Scala backend engineer with over 4 years of experience in designing and implementing scalable backend solutions for diverse industries, including finance, travel, and banking. Skilled in adopting advanced functional programming practices and delivering high-quality software solutions.
+Passionate Scala backend engineer with over 7 years of experience in designing and implementing scalable backend solutions for diverse industries, including finance, travel, and banking. Skilled in adopting advanced functional programming practices and delivering high-quality software solutions.
 
 ## Skills
 - **Programming Languages**: Scala, Golang, Python, MATLAB
