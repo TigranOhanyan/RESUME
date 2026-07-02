@@ -36,12 +36,14 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 - Designed and implemented GitLab CI/CD pipelines from scratch for build, test, and deployment.  
 - Owned production support: monitored live systems and resolved incidents.
 
-### **Open Source Project**  
-**[chessfinder.org](https://chessfinder.org)** | *Personal Project*  
+### **Personal projects**
 
-- Created and maintain a free, open-source application for chess enthusiasts.  
-- Demonstrated expertise in web application development and problem-solving for a niche audience.  
-- Contributed to the widely used Scala library **Tapir**
+#### **[chessfinder.org](https://chessfinder.org)** | *Personal project*
+
+**Tech used:** Scala, Tapir, ZIO, AWS CloudFormation  
+
+- Built and maintain a free, open-source app that searches chess.com games by partial board position — a feature chess.com does not offer.
+- In **Tapir**, implemented AWS API Gateway CloudFormation generation from endpoint definitions for ZIO backends.
 
 ### **ML Engineer**  
 **[Zoomerang Inc](https://zoomerang.app/)** | *May 2021 – Jul 2021*  
