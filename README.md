@@ -6,15 +6,21 @@
 [Yerevan, Armenia](https://www.openstreetmap.org/relation/364087#map=12/40.1614/44.5259)
 
 ## Profile
-Passionate Scala backend engineer with over 7 years of experience in designing and implementing scalable backend solutions for diverse industries, including finance, travel, and banking. Skilled in adopting advanced functional programming practices and delivering high-quality software solutions.
+Senior backend engineer with 7+ years building scalable production services in finance, banking, and travel. Strong hands-on experience in Go and Scala, with additional work in MATLAB, Python, and Flutter. Enterprise background spans system design, migrations, CI/CD, and on-call production support. Brings enterprise engineering practices — reliability, integration, and team delivery — across languages and stacks.
+
+Coaches junior and mid-level engineers and uses pair programming to share domain knowledge, habits, and coding practices with teammates. Applies TDD and AI-assisted development (GitHub Copilot, Cursor) as core parts of daily delivery.
 
 ## Skills
-- **Programming Languages**: Scala, Golang, Python, MATLAB
+- **Programming Languages**: Scala, Golang, Python, MATLAB, Flutter
 - **Frameworks & Libraries**: ZIO, Akka, Tapir, Slick, Shapeless, ScalaTest, ScalaMock, Munit, Circe, sbt
 - **DevOps & Tools**: AWS, CloudFormation and SAM, CI/CD pipelines (GitHub Actions), Docker
 - **Databases & Storages**: DynamoDB, PostgreSQL, S3
 - **Queues**: SQS, Kafka
-- **Other**: Event Sourcing, Domain-Driven Design (DDD), Test-Driven Development (TDD), RAG systems
+- **Coaching**: Guides junior and mid-level engineers on technical growth and direction
+- **Pair programming**: Shares domain knowledge, engineering habits, and coding practices with teammates
+- **Test-Driven Development (TDD)**: 3+ years; iterative workflow alternating test-first and code-first steps, with deliberate separation of test design and implementation concerns
+- **AI-assisted development**: GitHub Copilot, Cursor (1.5+ years); balances agent speed with human ownership of architecture and code quality
+- **Other**: Event Sourcing, Domain-Driven Design (DDD), RAG systems
 
 ## Career
 
