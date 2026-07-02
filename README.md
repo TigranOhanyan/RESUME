@@ -23,9 +23,9 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 **[DataArt Solutions Inc](https://www.dataart.com)** | *Jul 2021 – Present*  
 
 #### **Project: Cruise Line Company (Travel Domain)** 
-**Tech used:** Scala 2/3, ZIO, Akka, Docker, MySQL, SQS, SNS
+**Tech used:** Scala 2/3, ZIO, AKKA, Docker, MySQL, SQS, SNS
 - Introduced ZIO and Scala 3 into the project and helped the team adopt the new stack through pair programming, code reviews, and hands-on work on production features.  
-- Migrated production services from the Akka/Scala 2 stack to ZIO/Scala 3 once the team was ready to adopt the new stack.  
+- Migrated production services from the AKKA/Scala 2 stack to ZIO/Scala 3 once the team was ready to adopt the new stack.  
 - Built backend services for cruise booking and reservation management.  
 - Contributed to architecture for travel-domain microservices and integration with legacy third-party APIs.
 
@@ -44,7 +44,7 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 
 - Building a multi-agent assistant over Armenian laws, resolutions, and legal codes to answer user questions from natural-language queries.  
 - GraphRAG on Neo4j (graph and vector storage) with multi-agent orchestration via Google ADK to find and synthesize relevant legal sources.  
-- Golang backend on ECS; DynamoDB for conversation state; S3 for operation artifacts as recovery checkpoints during long-running agent workflows; Flutter frontend.
+- Golang backend on ECS; DynamoDB for conversation state; S3 for recovery checkpoints during long-running scraping of legal documents from official government sources; Flutter frontend.
 
 
 #### **[chessfinder.org](https://chessfinder.org)** | *May 2023 – Personal project*
@@ -59,66 +59,48 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 
 **Tech used:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, SciPy  
 
-**Responsibilities:**  
-- Designed and implemented a recommender system to enhance user engagement.  
-- Researched and evaluated new methodologies to improve system performance.  
-- Customized and adopted existing tools to meet unique project requirements.
+- Built a recommender system in Python using TensorFlow and scikit-learn.  
+- Compared modeling approaches and tuned the pipeline for production performance.  
+- Extended existing ML tooling to fit product data and release requirements.
 
-### **Scala Backend Engineer**  
+### **Trading Systems Engineer**  
 **[SAS Group](https://www.sasgroup.am/en/)** | *Jul 2020 – May 2021*  
 
-**Tech used:** Scala, Akka, Postgres
+**Tech used:** Scala, AKKA, PostgreSQL, Interactive Brokers API  
 
-**Responsibilities:**  
-- Designed and developed trading bots for automated financial operations.  
-- Implemented a backtesting tool to evaluate trading strategies with historical data.  
-- Monitored and troubleshot live applications, ensuring system reliability and performance. 
+- Built automated trading systems in Scala integrated with the Interactive Brokers API for live market operations.  
+- Implemented a backtesting framework to evaluate strategies against historical data.  
+- Monitored and supported live trading applications in production.
   
 ### **Lecturer**  
 **[Yerevan State University](http://www.ysu.am/main/en)** | *Aug 2019 – Jun 2021*  
 
 **Tech used:** MATLAB  
 
-**Responsibilities:**  
-- Taught students how to use MATLAB for constructing financial-economic models.  
-- Designed and delivered lectures, practical sessions, and hands-on projects to enhance learning outcomes.  
+- Taught MATLAB for building financial and economic models.  
+- Delivered lectures, practical sessions, and hands-on student projects.  
 
-### **Scala Backend Engineer, Researcher**  
+### **Trading Systems Engineer, Researcher**  
 **Future Financial Technologies** | *Aug 2018 – Feb 2019*  
 
-**Tech used:** Scala, AKKA, Postgres, MATLAB  
+**Tech used:** Scala, Akka, PostgreSQL, MATLAB  
 
-**Responsibilities:**  
-- Designed and developed trading bots for cryptocurreny market operations.  
-- Conducted inference and backtesting of trading strategies to optimize performance.  
-- Researched and implemented innovative algorithms to enhance trading efficiency.
+- Built automated trading systems for cryptocurrency market operations.  
+- Ran backtesting and statistical inference to evaluate and refine trading strategies.  
+- Researched and implemented algorithmic strategies for crypto markets.
 
 ## Education
 
-### **M.Sc. in Applied Economics and Mathematical Methods**  
-**Higher School of Economics, St. Petersburg** | *2016 – 2018*  
+### **M.Sc., Applied Economics and Mathematical Methods**  
+**Higher School of Economics, St. Petersburg** | *2016 – 2018*
 
-### **B.Econ. in Economics**  
-**Yerevan State University, Yerevan** | *2010 – 2016*  
+### **B.Econ., Economics**  
+**Yerevan State University** | *2010 – 2016*
 
 ---
 
-## Languages
+## Spoken languages
 
-- **Armenian**: Native proficiency  
+- **Armenian**: Native  
 - **Russian**: Professional working proficiency  
-- **English**: Professional working proficiency  
-
----
-
-## Soft Skills
-
-- Time management  
-- Communication  
-- Teamwork and collaboration  
-- Adaptability and flexibility  
-
-## Worth Mentioning
-
-I scare off bugs, bring good luck to releases, and increase the odds of tests passing.
-
+- **English**: Professional working proficiency
