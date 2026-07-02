@@ -8,19 +8,14 @@
 ## Profile
 Senior backend engineer with 7+ years building scalable production services in finance, banking, and travel. Strong hands-on experience in Go and Scala, with additional work in MATLAB, Python, and Flutter. Enterprise background spans system design, migrations, CI/CD, and on-call production support. Brings enterprise engineering practices — reliability, integration, and team delivery — across languages and stacks.
 
-Coaches junior and mid-level engineers and uses pair programming to share domain knowledge, habits, and coding practices with teammates. Applies TDD and AI-assisted development (GitHub Copilot, Cursor) as core parts of daily delivery.
+Coaches junior and mid-level engineers and uses pair programming to share domain knowledge, habits, and coding practices with teammates. Applies TDD and AI-assisted development as core parts of daily delivery.
 
 ## Skills
-- **Programming Languages**: Scala, Golang, Python, MATLAB, Flutter
-- **Frameworks & Libraries**: ZIO, Akka, Tapir, Slick, Shapeless, ScalaTest, ScalaMock, Munit, Circe, sbt
-- **DevOps & Tools**: AWS, CloudFormation and SAM, CI/CD pipelines (GitHub Actions), Docker
-- **Databases & Storages**: DynamoDB, PostgreSQL, S3
-- **Queues**: SQS, Kafka
-- **Coaching**: Guides junior and mid-level engineers on technical growth and direction
-- **Pair programming**: Shares domain knowledge, engineering habits, and coding practices with teammates
-- **Test-Driven Development (TDD)**: 3+ years; iterative workflow alternating test-first and code-first steps, with deliberate separation of test design and implementation concerns
-- **AI-assisted development**: GitHub Copilot, Cursor (1.5+ years); balances agent speed with human ownership of architecture and code quality
-- **Other**: Event Sourcing, Domain-Driven Design (DDD), RAG systems
+- **Languages**: Go, Scala (AKKA, ZIO), Python, MATLAB, Dart (Flutter)
+- **Cloud & DevOps**: AWS (CloudFormation, SAM), Docker, CI/CD (GitHub Actions, GitLab CI/CD)
+- **Data & messaging**: PostgreSQL, DynamoDB, S3, Kafka, SQS
+- **Architecture**: Event-driven systems, Domain-Driven Design (DDD), Event Sourcing, API design, retrieval augmented generation (RAG) 
+- **Engineering practices**: TDD, pair programming, coaching/mentoring, AI-assisted development (GitHub Copilot, Cursor)
 
 ## Career
 
@@ -28,19 +23,18 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 **[DataArt Solutions Inc](https://www.dataart.com)** | *Jul 2021 – Present*  
 
 #### **Project: Cruise Line Company (Travel Domain)** 
-**Tech used:** Scala 2, Scala 3, ZIO, Akka, TDD, Docker  
-- Implemented TDD practices to deliver reliable and maintainable code.  
-- Migrated existing Scala code from Akka stack to ZIO stack and upgraded from Scala 2 to Scala 3.  
-- Designed and implemented backend services to enhance user experience for cruise bookings and management.  
-- Played a key role in making architectural decisions.  
-- Integrated seamlessly with legacy third-party APIs to ensure smooth operations.  
+**Tech used:** Scala 2/3, ZIO, Akka, Docker, MySQL, SQS, SNS
+- Introduced ZIO and Scala 3 into the project and helped the team adopt the new stack through pair programming, code reviews, and hands-on work on production features.  
+- Migrated production services from the Akka/Scala 2 stack to ZIO/Scala 3 once the team was ready to adopt the new stack.  
+- Built backend services for cruise booking and reservation management.  
+- Contributed to architecture for travel-domain microservices and integration with legacy third-party APIs.
 
 #### **Project: Banking Application**  
-**Tech used:** Scala, Akka, ZIO, GitLab CI/CD, Docker, SQS, SNS, MySql
-- Developed backend services and reviewed PRs to ensure high-quality code delivery.  
-- Participated in system design decisions, contributing to scalable and efficient architecture.  
-- Built CI/CD pipelines from scratch in GitLab, streamlining the deployment process.  
-- Monitored live applications, resolved production incidents, and ensured system stability.  
+**Tech used:** Scala, AKKA, ZIO, Docker, GitLab CI/CD, SQS, SNS, OracleDB, Postgres, Redis  
+- Built backend services for a banking application with event-driven messaging over SQS and SNS.  
+- Contributed to system design for scalable and high performance services.  
+- Designed and implemented GitLab CI/CD pipelines from scratch for build, test, and deployment.  
+- Owned production support: monitored live systems and resolved incidents.
 
 ### **Open Source Project**  
 **[chessfinder.org](https://chessfinder.org)** | *Personal Project*  
