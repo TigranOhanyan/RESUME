@@ -6,15 +6,15 @@
 [Yerevan, Armenia](https://www.openstreetmap.org/relation/364087#map=12/40.1614/44.5259)
 
 ## Profile
-Senior backend engineer with 7+ years building scalable production services in finance, banking, and travel. Strong hands-on experience in Go and Scala, with additional work in MATLAB, Python, and Flutter. Enterprise background spans system design, migrations, CI/CD, and on-call production support. Brings enterprise engineering practices — reliability, integration, and team delivery — across languages and stacks.
+Senior backend engineer with 7+ years building scalable production services in finance, banking, and travel. Strong hands-on experience in Golang and Scala, with additional work in MATLAB, Python, and Flutter. Enterprise background spans system design, migrations, CI/CD, and on-call production support. Brings enterprise engineering practices — reliability, integration, and team delivery — across languages and stacks.
 
 Coaches junior and mid-level engineers and uses pair programming to share domain knowledge, habits, and coding practices with teammates. Applies TDD and AI-assisted development as core parts of daily delivery.
 
 ## Skills
-- **Languages**: Go, Scala (AKKA, ZIO), Python, MATLAB, Dart (Flutter)
-- **Cloud & DevOps**: AWS (CloudFormation, SAM), Docker, CI/CD (GitHub Actions, GitLab CI/CD)
-- **Data & messaging**: PostgreSQL, DynamoDB, S3, Kafka, SQS
-- **Architecture**: Event-driven systems, Domain-Driven Design (DDD), Event Sourcing, API design, retrieval augmented generation (RAG) 
+- **Languages**: Golang, Scala (AKKA, ZIO), Python, MATLAB, Dart (Flutter)
+- **Cloud & DevOps**: AWS (CloudFormation, SAM, ECS), Docker, CI/CD (GitHub Actions, GitLab CI/CD)
+- **Data & messaging**: PostgreSQL, DynamoDB, Neo4j, S3, Kafka, SQS, MySQL
+- **Architecture**: Event-driven systems, Domain-Driven Design (DDD), Event Sourcing, API design, RAG, GraphRAG
 - **Engineering practices**: TDD, pair programming, coaching/mentoring, AI-assisted development (GitHub Copilot, Cursor)
 
 ## Career
@@ -38,9 +38,18 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 
 ### **Personal projects**
 
-#### **[chessfinder.org](https://chessfinder.org)** | *Personal project*
+#### **AI assistant for Armenian legal texts** | *Jan 2025 – Personal project · PoC*
 
-**Tech used:** Scala, Tapir, ZIO, AWS CloudFormation  
+**Tech used:** Golang, Google ADK, Flutter, Neo4j, DynamoDB, S3, AWS ECS  
+
+- Building a multi-agent assistant over Armenian laws, resolutions, and legal codes to answer user questions from natural-language queries.  
+- GraphRAG on Neo4j (graph and vector storage) with multi-agent orchestration via Google ADK to find and synthesize relevant legal sources.  
+- Golang backend on ECS; DynamoDB for conversation state; S3 for operation artifacts as recovery checkpoints during long-running agent workflows; Flutter frontend.
+
+
+#### **[chessfinder.org](https://chessfinder.org)** | *May 2023 – Personal project*
+
+**Tech used:** Golang, Scala (Tapir, ZIO), AWS Serverless (DynamoDB, SNS, SQS, API Gateway)
 
 - Built and maintain a free, open-source app that searches chess.com games by partial board position — a feature chess.com does not offer.
 - In **Tapir**, implemented AWS API Gateway CloudFormation generation from endpoint definitions for ZIO backends.
