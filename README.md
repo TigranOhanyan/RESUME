@@ -19,7 +19,7 @@ Coaches junior and mid-level engineers and uses pair programming to share domain
 
 ## Career
 
-### **Scala Backend Engineer**  
+### **Backend Engineer**  
 **[DataArt Solutions Inc](https://www.dataart.com)** | *Jul 2021 – Present*  
 
 #### **Project: Cruise Line Company (Travel Domain)** 
